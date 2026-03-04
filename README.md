@@ -51,7 +51,7 @@ I have experience in:
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin:10px;">
-<img src="[https://raw.githubusercontent.com/devicons/devicon/icons/pandas/pandas-original.svg](https://seeklogo.com/search?q=Pandas%20python)" alt="pandas" width="40" height="40"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F574-5747046_python-pandas-logo-transparent-hd-png-download.png&f=1&nofb=1&ipt=0ac66a464070588d5ed990674a3b38ff29ab9c8b6c4e910eecd6eda9f2cda242" alt="pandas" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin:10px;">
