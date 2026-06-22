@@ -3,6 +3,8 @@
 🎓 Engineering Student  
 🤖 AI & Machine Learning Enthusiast  
 💻 C & Python Programmer  
+💻 C++ Learner
+
 
 ---
 
