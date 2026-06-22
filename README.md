@@ -79,7 +79,7 @@ A simple Python project that generates QR codes from user input using external l
 A mini file-based database system supporting CREATE, INSERT, SELECT, DELETE, and DROP commands.
 
 🔹 **C Pattern Library**  
-A structured collection of pattern programs for students to improve logic and nested loop concepts.
+A structured collection of pattern programs to improve logic and nested loop concepts.
 
 ---
 
