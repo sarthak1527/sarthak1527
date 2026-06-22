@@ -47,10 +47,6 @@ I have experience in:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin:10px;">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F574-5747046_python-pandas-logo-transparent-hd-png-download.png&f=1&nofb=1&ipt=0ac66a464070588d5ed990674a3b38ff29ab9c8b6c4e910eecd6eda9f2cda242" alt="pandas" width="40" height="40"/>
-</a>
-
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin:10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
@@ -58,21 +54,12 @@ I have experience in:
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin:10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin:10px;">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin:10px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin:10px;">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F574-5747046_python-pandas-logo-transparent-hd-png-download.png&f=1&nofb=1&ipt=0ac66a464070588d5ed990674a3b38ff29ab9c8b6c4e910eecd6eda9f2cda242" alt="pandas" width="40" height="40"/>
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin:10px;">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin:10px;">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 
 </p>
